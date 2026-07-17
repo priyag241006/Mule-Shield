@@ -22,6 +22,7 @@ This project aims to develop a robust machine learning model capable of detectin
 - **9,082 records**
 - **4,000+ engineered features**
 - Severe **112:1 class imbalance**
+- Dataset used- https://drive.google.com/uc?export=download&id=12dy_n7nbQfiPolBJ5qUS_7Ng0S0wwVD5
 
 ---
 
